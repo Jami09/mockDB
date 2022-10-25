@@ -7,7 +7,8 @@
       "currentUsage": 34,
       "maxUsage": 75,
       "status": "Active",
-      "imei": 12450124105
+      "imei": 12450124105,
+      "tags": ["Germany", "Bauhaus", "GPS"]
     },
       {
       "phoneNumber": "(+45) 651231231232",

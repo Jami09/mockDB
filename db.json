@@ -1,8 +1,8 @@
 {
-'simCards': [
+"simCards": [
 {
-      phoneNumber: '(+45) 432143211234',
-      country: 'Germany',
+      phoneNumber: "(+45) 432143211234",
+      country: "Germany",
       flag: 'DE-flag.png',
       currentUsage: 34,
       maxUsage: 75,

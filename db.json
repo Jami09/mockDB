@@ -8,7 +8,7 @@
       "maxUsage": 75,
       "status": "Active",
       "imei": 12450124105,
-      "tags": ["Germany", "Ikea", "GPS"],
+      "tags": ["Germany", "Ikea", "GPS"]
     },
       {
       "phoneNumber": "(+45) 651231231232",
@@ -18,7 +18,7 @@
       "maxUsage": 100,
       "status": "Active",
       "imei": 12450124321,
-      "tags": ["France", "Bauhaus", "Alarm"],
+      "tags": ["France", "Bauhaus", "Alarm"]
     },
       {
       "phoneNumber": "(+46) 561315326516",
@@ -28,7 +28,7 @@
       "maxUsage": 100,
       "status": "Limit reached",
       "imei": 12450124765,
-      "tags": ["Greenland", "Bauhaus", "Alarm"],
+      "tags": ["Greenland", "Bauhaus", "Alarm"]
     },
       {
       "phoneNumber": "(+46) 561315326516",
@@ -38,7 +38,7 @@
       "maxUsage": 100,
       "status": "Inactive",
       "imei": 12450124765,
-      "tags": ["Greenland", "Bauhaus", "Alarm"],
+      "tags": ["Greenland", "Bauhaus", "Alarm"]
     }
 ]
 }

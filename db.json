@@ -1,4 +1,4 @@
-[{
+{
 "simCards": [
 {
       "phoneNumber": "(+45) 432143211234",
@@ -40,8 +40,8 @@
       "imei": 12450124765,
       "tags": ["Greenland", "Bauhaus", "Alarm"]
     }
-]},
-"invoices": [
+],
+"invoices": 
 {
       "company": "OnlineCity ApS",
       "VAT": "DK98465468",
@@ -50,7 +50,6 @@
       "country": "Denmark",
       "phone": "+45 66 11 83 11",
       "email": "invoice@onlinecity.io",
-    },
-]
-]
+    }
+}
 

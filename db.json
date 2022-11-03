@@ -51,6 +51,15 @@
       "phone": "+45 66 11 83 11",
       "email": "invoice@onlinecity.io"
     }
+],
+"payments": [
+{
+      "type": "VISA",
+      "cardNumber": "**** **** **** 1931",
+      "expiry": "04/26",
+      "autoCharge": "100 eur",
+      "status": "Active"
+    }
 ]
 }
 

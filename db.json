@@ -41,7 +41,7 @@
       "tags": ["Greenland", "Bauhaus", "Alarm"]
     }
 ],
-"invoices": 
+"invoices": [
 {
       "company": "OnlineCity ApS",
       "VAT": "DK98465468",
@@ -50,6 +50,16 @@
       "country": "Denmark",
       "phone": "+45 66 11 83 11",
       "email": "invoice@onlinecity.io"
+    },
+      {
+      "company": "OnlineCity ApS",
+      "VAT": "DK98465468",
+      "address": "Buchwaldsgade 50",
+      "postal_city": "5000 Odense C",
+      "country": "Denmark",
+      "phone": "+45 66 11 83 11",
+      "email": "invoice@onlinecity.io"
     }
+]
 }
 

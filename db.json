@@ -63,11 +63,13 @@
 ],
       "delivery": [
 {
+      "id": 1,
       "address": "Buchwaldsgade 50",
       "postal_city": "5000 Odense C",
       "country": "Denmark"
     },
     {
+      "id": 2,
       "address": "C. A. Olesens Gade 4",
       "postal_city": "9000 Aalborg C",
       "country": "Denmark"

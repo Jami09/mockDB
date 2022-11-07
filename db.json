@@ -60,6 +60,13 @@
       "autoCharge": "100 eur",
       "status": "Active"
     }
+],
+      "delivery": [
+{
+      "address": "C. A. Olesens Gade 4",
+      "postal_city": "9000 Aalborg C",
+      "country": "Denmark"
+    }
 ]
 }
 

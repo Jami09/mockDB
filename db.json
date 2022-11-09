@@ -66,19 +66,22 @@
       "id": 1,
       "address": "Buchwaldsgade 50",
       "postal_city": "5000 Odense C",
-      "country": "Denmark"
+      "country": "Denmark",
+      "primary": "Active"
     },
     {
       "id": 2,
       "address": "C. A. Olesens Gade 4",
       "postal_city": "9000 Aalborg C",
-      "country": "Denmark"
+      "country": "Denmark",
+      "primary": "Inactive"
     },
     {
       "id": 3,
       "address": "Daneskjold Samsøes Allé 123",
       "postal_city": "1234 København",
-      "country": "Denmark"
+      "country": "Denmark",
+      "primary": "Inactive"
     }
 ]
 }

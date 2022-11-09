@@ -73,6 +73,12 @@
       "address": "C. A. Olesens Gade 4",
       "postal_city": "9000 Aalborg C",
       "country": "Denmark"
+    },
+    {
+      "id": 3,
+      "address": "Daneskjold Samsøes Allé 123",
+      "postal_city": "1234 København",
+      "country": "Denmark"
     }
 ]
 }
